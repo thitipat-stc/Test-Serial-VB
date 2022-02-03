@@ -1,0 +1,12 @@
+C:\Users\Thitipat\source\repos\TestSerialVB\TestSerialVB\bin\Debug\TestSerialVB.exe.config
+C:\Users\Thitipat\source\repos\TestSerialVB\TestSerialVB\bin\Debug\TestSerialVB.exe
+C:\Users\Thitipat\source\repos\TestSerialVB\TestSerialVB\bin\Debug\TestSerialVB.pdb
+C:\Users\Thitipat\source\repos\TestSerialVB\TestSerialVB\bin\Debug\TestSerialVB.xml
+C:\Users\Thitipat\source\repos\TestSerialVB\TestSerialVB\obj\Debug\TestSerialVB.vbprojAssemblyReference.cache
+C:\Users\Thitipat\source\repos\TestSerialVB\TestSerialVB\obj\Debug\TestSerialVB.Form1.resources
+C:\Users\Thitipat\source\repos\TestSerialVB\TestSerialVB\obj\Debug\TestSerialVB.Resources.resources
+C:\Users\Thitipat\source\repos\TestSerialVB\TestSerialVB\obj\Debug\TestSerialVB.vbproj.GenerateResource.cache
+C:\Users\Thitipat\source\repos\TestSerialVB\TestSerialVB\obj\Debug\TestSerialVB.vbproj.CoreCompileInputs.cache
+C:\Users\Thitipat\source\repos\TestSerialVB\TestSerialVB\obj\Debug\TestSerialVB.exe
+C:\Users\Thitipat\source\repos\TestSerialVB\TestSerialVB\obj\Debug\TestSerialVB.xml
+C:\Users\Thitipat\source\repos\TestSerialVB\TestSerialVB\obj\Debug\TestSerialVB.pdb
